@@ -22,3 +22,4 @@ function send_data(){
     document.getElementById("form").style.display = "none"; // make form invisible
     document.getElementById("completion-msg").style.display = "block"; // Optional if you want to give a completion feedback!
     }
+
